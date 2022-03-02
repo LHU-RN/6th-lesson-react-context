@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "Buoi2.app"
-               BlueprintName = "Buoi2"
-               ReferencedContainer = "container:Buoi2.xcodeproj">
+               BuildableName = "RNLHUApp.app"
+               BlueprintName = "RNLHUApp"
+               ReferencedContainer = "container:RNLHUApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "Buoi2Tests.xctest"
-               BlueprintName = "Buoi2Tests"
-               ReferencedContainer = "container:Buoi2.xcodeproj">
+               BuildableName = "RNLHUAppTests.xctest"
+               BlueprintName = "RNLHUAppTests"
+               ReferencedContainer = "container:RNLHUApp.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "Buoi2.app"
-            BlueprintName = "Buoi2"
-            ReferencedContainer = "container:Buoi2.xcodeproj">
+            BuildableName = "RNLHUApp.app"
+            BlueprintName = "RNLHUApp"
+            ReferencedContainer = "container:RNLHUApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "Buoi2.app"
-            BlueprintName = "Buoi2"
-            ReferencedContainer = "container:Buoi2.xcodeproj">
+            BuildableName = "RNLHUApp.app"
+            BlueprintName = "RNLHUApp"
+            ReferencedContainer = "container:RNLHUApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
