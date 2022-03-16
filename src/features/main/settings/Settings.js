@@ -3,10 +3,12 @@ import {Button, StyleSheet, Text, View} from 'react-native';
 import {useUserContext} from '../../../UserContext';
 
 export default function SettingsScreen() {
-  const {signOut} = useUserContext();
+  const {signOut, user} = useUserContext();
   return (
     <View style={styles.container}>
       <Text>SettingsScreen</Text>
+      <Text>{user.username}</Text>
+      <Text>{user.fullName}</Text>
       <Button title="Logout" onPress={signOut} />
     </View>
   );
